@@ -10,17 +10,17 @@ This project answers the following questions:
 -	Dataset: Divvy Bike Share, January 2023 (~190,000 rides)
 -	Key columns used: *ride_id*, *member_casual*, *rideable_type*, *started_at*
 -	Cleaning steps:
-  - Checked if there were any missing values for the key columns that were used
-  - Added a column for day of the week
-  - Converted started_at to proper date format
+    - Checked if there were any missing values for the key columns that were used
+    - Added a column for day of the week
+    - Converted started_at to proper date format
 
 ## **Analysis and Visualizations**
 -	Pivot tables were used to summarize data
 -	Charts were created for easy visualization
--	Insights: 
-  1. Members take more rides than casual riders
-  2. Ride activity peaks on weekdays (Tuesday highest)
-  3. Electric bikes are the most popular
+-	Insights:
+    1. Members take more rides than casual riders
+    2. Ride activity peaks on weekdays (Tuesday highest)
+    3. Electric bikes are the most popular
 
 ## **Files**
 -	*divvy-tripdata-Jan2023-cleaned-dataset.xlsx* – cleaned dataset
