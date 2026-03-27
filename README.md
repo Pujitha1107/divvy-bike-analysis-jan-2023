@@ -18,12 +18,17 @@ This project answers the following questions:
 - Pivot tables were used to summarize data
 - Charts were created for easy visualization
 - Insights:
-1. **Members take more rides than casual riders**
-![Rider Type Chart](charts/chart_rider_type.png)
-2. **Ride activity peaks on weekdays (Tuesday highest)**
-![Day of Week Chart](charts/chart_day_of_the_week.png)
-3. **Electric bikes are the most popular**
-![Bike Type Chart](charts/chart_bike_type.png)
+    1. Members take more rides than casual riders**
+
+       ![Rider Type Chart](charts/chart_rider_type.png)
+       
+    2. Ride activity peaks on weekdays (Tuesday highest)**
+
+       ![Day of Week Chart](charts/chart_day_of_the_week.png)
+       
+    3. Electric bikes are the most popular
+
+       ![Bike Type Chart](charts/chart_bike_type.png)
 
 ## **Files**
 -	*divvy-tripdata-Jan2023-cleaned-dataset.xlsx* – cleaned dataset
