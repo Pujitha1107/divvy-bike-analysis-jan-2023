@@ -7,7 +7,7 @@ This project answers the following questions:
   3. What type of bike is used the most?
 
 ## **Data**
--	Dataset: Divvy Bike Share, January 2023 (~190,000 rides)
+-	Dataset: Divvy Bike Share, January 2023 (~190,000 rides), publicly available [here](https://divvybikes.com/system-data) 
 -	Key columns used: *ride_id*, *member_casual*, *rideable_type*, *started_at*
 -	Cleaning steps:
     - Checked if there were any missing values for the key columns that were used
