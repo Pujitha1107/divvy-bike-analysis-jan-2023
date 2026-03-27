@@ -18,8 +18,8 @@ This project answers the following questions:
 -	Pivot tables were used to summarize data
 -	Charts were created for easy visualization
 -	Insights:
-![Rider Type Chart](charts/chart_rider_type.png)  
     1. Members take more rides than casual riders
+      ![Rider Type Chart](charts/chart_rider_type.png)   
     2. Ride activity peaks on weekdays (Tuesday highest)
     3. Electric bikes are the most popular
 
