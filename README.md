@@ -2,9 +2,9 @@
 
 ## **Objective**
 This project answers the following questions:
-1. Who takes more rides, member or casual riders?
-2. Which day of the week has the most rides?
-3. What type of bike is used the most?
+  1. Who takes more rides, member or casual riders?
+  2. Which day of the week has the most rides?
+  3. What type of bike is used the most?
 
 ## **Data**
 -	Dataset: Divvy Bike Share, January 2023 (~190,000 rides)
@@ -28,5 +28,5 @@ This project answers the following questions:
 -	*Divvy Bike Share Analysis - Report.pdf* – Full report with visuals and insights
 
 ## **Conclusion**
--	This analysis shows how Divvy bikes are used by members vs casual riders, across days of the week, and by bike type. It demonstrates basic data cleaning, pivot table analysis, and visualization skills.
+This analysis shows how Divvy bikes are used by members vs casual riders, across days of the week, and by bike type. It demonstrates basic data cleaning, pivot table analysis, and visualization skills.
 
